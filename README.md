@@ -7,6 +7,4 @@ npm run dev
 ```
 <br><br>
 Getting started with iota and Javascript:<br>
-[iota-api-docs](https://docs.iota.org/)]
-
-
+[iota-api-docs](https://docs.iota.org/)
